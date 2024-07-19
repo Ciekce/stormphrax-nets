@@ -1,2 +1,1 @@
-# stormphrax-nets
-Networks for Stormphrax
+Networks for [Stormphrax](https://github.com/Ciekce/Stormphrax)
